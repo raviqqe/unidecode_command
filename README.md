@@ -1,5 +1,13 @@
 # unidecode command
 
+## Usage
+
+See help.
+
+```
+$ unidecode.py -h
+```
+
 ## Examples
 
 ```
